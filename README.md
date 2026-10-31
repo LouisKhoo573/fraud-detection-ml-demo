@@ -1,5 +1,7 @@
 # Payment Fraud Detection — Machine Learning Demo
 
+[![Python ML Tests](https://github.com/LouisKhoo573/fraud-detection-ml-demo/actions/workflows/python-tests.yml/badge.svg)](https://github.com/LouisKhoo573/fraud-detection-ml-demo/actions/workflows/python-tests.yml)
+
 An **educational Python project** showing how to classify simulated payment transactions, measure fraud-detection performance, and examine the precision–recall trade-off.
 
 > **Personal demonstration project.** All transactions and fraud labels are generated synthetically. This is **not** a Capital One project, company model, production fraud detector, or a report on real fraud rates. No bank/customer/private data are included.
